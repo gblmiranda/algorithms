@@ -15,7 +15,7 @@ setup(name='algorithms',
       author_email='nryoung@gmail.com',
       license='BSD',
       packages=['algorithms', 'algorithms.data_structure','algorithms.sorting', 'algorithms.shuffling',
-          'algorithms.searching', 'algorithms.math', 'algorithms.tests'],
+          'algorithms.searching', 'algorithms.math', 'algorithms.dynamic_programming' 'algorithms.tests'],
       classifiers=[
           'Programming Language :: Python :: 2.7',],
       zip_safe=False)

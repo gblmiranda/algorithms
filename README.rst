@@ -52,6 +52,9 @@ Algorithms implemented so far:
 
 - Mersenne Twister
 
+**Dynamic Programming**
+
+- Longest Common Subsequence (LCS)
 
 Installation:
 -------------
